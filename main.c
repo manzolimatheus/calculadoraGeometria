@@ -1,3 +1,5 @@
+//Grupo: Márcio Roberto, Matheus Biazotto, Matheus Manzoli, Raíne Felix
+//2º SEMESTRE ADS NOTURNO
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
